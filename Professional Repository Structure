@@ -1,0 +1,30 @@
+ELSMOOTH
+│
+├── .github
+│   ├── workflows
+│   ├── ISSUE_TEMPLATE
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   ├── CODEOWNERS
+│   ├── SECURITY.md
+│   ├── CONTRIBUTING.md
+│   ├── CODE_OF_CONDUCT.md
+│   ├── SUPPORT.md
+│   ├── LICENSE
+│   └── FUNDING.yml
+│
+├── elsmooth-platform
+├── elsmooth-website
+├── elsmooth-mobile
+├── elsmooth-api
+├── elsmooth-ai
+├── elsmooth-cloud
+├── elsmooth-commerce
+├── elsmooth-delivery
+├── elsmooth-auth
+├── elsmooth-security
+├── elsmooth-design-system
+├── elsmooth-sdk
+├── elsmooth-cli
+├── elsmooth-devtools
+├── documentation
+└── infrastructure
